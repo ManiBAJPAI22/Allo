@@ -1,0 +1,29 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (Allo.spec:57:11): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:66:11): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:68:11): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:81:11): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:107:11): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

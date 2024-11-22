@@ -1,0 +1,13 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (Allo.spec:1:1): Syntax error: unexpected token near `ruleset`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

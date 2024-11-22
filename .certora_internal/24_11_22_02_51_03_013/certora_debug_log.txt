@@ -1,0 +1,8 @@
+Saving last configuration file to .certora_internal/24_11_22_02_51_03_013/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_02_51_03_013/.certora_config
+In /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec, found the imports: []
+copying spec file /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec to /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_02_51_03_013/.certora_sources/.0_Allo.spec.spec
+writing /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_02_51_03_013/.certora_verify.json
+`java` is not installed. Installing Java version 11 or later will enable faster CVL specification syntax checking before uploading to the cloud.
+build failed

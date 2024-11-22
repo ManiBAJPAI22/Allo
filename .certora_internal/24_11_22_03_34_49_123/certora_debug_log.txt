@@ -1,0 +1,14 @@
+Saving last configuration file to .certora_internal/24_11_22_03_34_49_123/run.conf
+Failed to find the latest package version of certora-cli. Local version is 7.20.1
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_34_49_123/.certora_config
+In /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec, found the imports: []
+copying spec file /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec to /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_34_49_123/.certora_sources/.0_Allo.spec.spec
+writing /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_34_49_123/.certora_verify.json
+running ['java', '-jar', '/home/manibajpai/.local/lib/python3.10/site-packages/certora_jars/Typechecker.jar', '-buildDirectory', '/home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_34_49_123']
+Failed to run Certora Prover locally. Please check the errors below for problems in the specifications (.spec files) or the prover_args defined in the .conf file.
+[main] ERROR ALWAYS - Found errors in certora/specs/Allo.spec:
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:4:5): Metadata is not a valid CVL type
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:18:5): Metadata is not a valid CVL type
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:49:5): Metadata is not a valid CVL type
+build failed

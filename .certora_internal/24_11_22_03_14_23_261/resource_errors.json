@@ -1,0 +1,77 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (Allo.spec:5:9): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:14:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:15:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:20:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:21:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:26:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:27:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:32:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:33:46): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:41:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:42:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:47:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:48:30): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:55:82): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:57:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:62:13): Syntax error: unexpected token near `calldata`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:63:16): Syntax error: unexpected token near `.`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "CLI_package_name": "certora-cli",
+    "CLI_version": "7.20.1",
+    "branch": "main",
+    "certora_ci_client": null,
+    "conf": {
+        "files": [
+            "contracts/core/Allo.sol"
+        ],
+        "process": "emv",
+        "verify": "Allo:certora/specs/Allo.spec",
+        "wait_for_results": "none"
+    },
+    "conf_path": null,
+    "cwd_relative": ".",
+    "dirty": true,
+    "group_id": null,
+    "main_spec": "certora/specs/Allo.spec",
+    "origin": "https://github.com/allo-protocol/allo-v2.git",
+    "python_version": "3.10.12",
+    "raw_args": [
+        "/home/manibajpai/.local/bin/certoraRun",
+        "contracts/core/Allo.sol",
+        "--verify",
+        "Allo:certora/specs/Allo.spec"
+    ],
+    "revision": "4eaa55818368e964298f92d34799b3ae32c91a3d",
+    "timestamp": "1732207248.349184"
+}

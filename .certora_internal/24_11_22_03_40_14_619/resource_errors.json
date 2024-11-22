@@ -1,0 +1,13 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (Allo.spec:11:1): Syntax error: unexpected token near `const`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

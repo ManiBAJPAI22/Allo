@@ -1,0 +1,33 @@
+Saving last configuration file to .certora_internal/24_11_22_03_20_58_752/run.conf
+There is no TAC file. Going to script EVMVerifier/certoraBuild.py to main_with_args()
+Creating dir /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_20_58_752/.certora_config
+In /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec, found the imports: []
+copying spec file /home/manibajpai/Allo/allo-v2/certora/specs/Allo.spec to /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_20_58_752/.certora_sources/.0_Allo.spec.spec
+writing /home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_20_58_752/.certora_verify.json
+running ['java', '-jar', '/home/manibajpai/.local/lib/python3.10/site-packages/certora_jars/Typechecker.jar', '-buildDirectory', '/home/manibajpai/Allo/allo-v2/.certora_internal/24_11_22_03_20_58_752']
+Failed to run Certora Prover locally. Please check the errors below for problems in the specifications (.spec files) or the prover_args defined in the .conf file.
+[main] ERROR ALWAYS - Found errors in certora/specs/Allo.spec:
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:6:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:6:38): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:7:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:7:46): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:8:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:8:50): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:9:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:9:44): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:10:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:10:44): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:11:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:11:51): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:12:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:12:54): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:13:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:13:42): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:16:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:16:59): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:17:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:17:57): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:18:5): Since CVL 2, methods block entries must begin with `function`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:18:56): Since CVL 2, methods block entries must end with `;`
+[main] ERROR ALWAYS - Error in spec file (Allo.spec:21:38): Syntax error: unexpected token near `)`
+build failed

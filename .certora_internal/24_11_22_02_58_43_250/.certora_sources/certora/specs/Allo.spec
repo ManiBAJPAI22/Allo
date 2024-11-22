@@ -1,0 +1,4 @@
+rule basicRule {
+    assert true;
+}
+

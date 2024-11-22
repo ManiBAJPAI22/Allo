@@ -1,0 +1,17 @@
+{
+    "topics": [
+        {
+            "name": "type_check",
+            "messages": [
+                {
+                    "message": "Error in spec file (Allo.spec:17:1): Syntax error: unexpected token near `rules`",
+                    "location": []
+                },
+                {
+                    "message": "Error in spec file (Allo.spec:52:1): Syntax error: unexpected token near `}`",
+                    "location": []
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "importFilesToOrigRelpaths": {},
+    "primary_contract": "Allo",
+    "specfile": "certora/specs/Allo.spec",
+    "specfileOrigRelpath": "certora/specs/Allo.spec",
+    "specfilesToImportDecls": {},
+    "type": "spec"
+}
